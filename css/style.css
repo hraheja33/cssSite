@@ -1,0 +1,95 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: 10px dotted #EAF6F6;
+    margin: 100px auto 100px auto;
+    width: 6%;
+    border-bottom: none;
+}
+
+div.header {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.main {
+    margin: 100px 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 18%;
+    top: 12%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 18%;
+    top: 50%;
+}
+
+.web {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.title-text {
+    padding: 30px 0;
+}
+
+.code-img {
+    width: 250px;
+    height: 150px;
+    float: left;
+    margin-right: 5%;
+}
+
+.chilli-img {
+    width: 250px;
+    height: 200px;
+    float: right;
+    margin-left: 5%;
+}
+
+.skill-row {
+    margin: 10% 25% 10% 25%;
+}
+
+
+/* .img-des {
+    width: 50%;
+} */
